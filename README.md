@@ -29,12 +29,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/Desktop.jpeg)
+![](./screenshot/Desktop.png)
+![](./screenshot/Mobile.png)
+![](./screenshot/Mobile2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/winsofttutorials/fylo-landing-page-with-two-column-layout-master.git]
+- Live Site URL: [https://winsofttutorials.github.io/fylo-landing-page-with-two-column-layout-master/]
 
 ## My process
 
